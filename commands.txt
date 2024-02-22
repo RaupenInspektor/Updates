@@ -1,0 +1,3 @@
+newApp.exe --> downloading new Project
+BedwarsHelper.exe --> update BedwarsHelper.exe
+bedwarshelper.jar --> update bedwarshelper.jar

